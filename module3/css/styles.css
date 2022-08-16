@@ -1,0 +1,70 @@
+#navbar-header {
+	background-color: grey;
+	border: 2px solid black;
+}
+
+.navbar-header h1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	color: black;
+	font-size: 3em;
+}
+
+.navbar-header a:hover, .navbar-header a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+	color: black;
+	border: 2px solid black;
+	margin-bottom: 2px;
+	background-color: white;
+}
+
+#nav-list a:hover {
+	background-color: yellow;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+  size: 4vw;
+}
+
+.navbar-header button.navbar-toggle {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.navbar-header button:focus, .navbar-header button:hover {
+  background-color: white;
+}
+
+#text {
+	background-color: grey;
+	min-height: 1000px;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+#text p {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+#main-content h2 {
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+#text h3 {
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.back-top {
+	position: absolute;
+	bottom: 0;
+	margin-bottom: 25px;
+}
